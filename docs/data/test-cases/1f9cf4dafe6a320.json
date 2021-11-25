@@ -1,0 +1,82 @@
+{
+  "uid" : "1f9cf4dafe6a320",
+  "name" : "should test",
+  "fullName" : "shoud test.should test",
+  "historyId" : "dc739afd4060ea46f97b9ceef7ca47de",
+  "time" : {
+    "start" : 1637572002572,
+    "stop" : 1637572002661,
+    "duration" : 89
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "cy is not defined",
+  "statusTrace" : "ReferenceError: cy is not defined\n                    at Context.<anonymous> (C:\\Users\\L\\Desktop\\TestsJS\\cypress\\integration\\untitled.spec.js:9:9)\n                    at Context.executeAsync (C:\\Users\\L\\Desktop\\TestsJS\\node_modules\\@wdio\\utils\\build\\shim.js:325:27)\n                    at Context.testFrameworkFnWrapper (C:\\Users\\L\\Desktop\\TestsJS\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:45:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "cy is not defined",
+    "statusTrace" : "ReferenceError: cy is not defined\n                    at Context.<anonymous> (C:\\Users\\L\\Desktop\\TestsJS\\cypress\\integration\\untitled.spec.js:9:9)\n                    at Context.executeAsync (C:\\Users\\L\\Desktop\\TestsJS\\node_modules\\@wdio\\utils\\build\\shim.js:325:27)\n                    at Context.testFrameworkFnWrapper (C:\\Users\\L\\Desktop\\TestsJS\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:45:32)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d611239aaa622adb",
+      "name" : "Screenshot",
+      "source" : "d611239aaa622adb.png",
+      "type" : "image/png",
+      "size" : 5199
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "shoud test"
+  }, {
+    "name" : "testClass",
+    "value" : "shoud test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should test"
+  }, {
+    "name" : "package",
+    "value" : "shoud test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1f9cf4dafe6a320.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}
