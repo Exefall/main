@@ -1,5 +1,5 @@
 name: Main Github Actions
-  on:
+on:
   push:
     branches:
       - 'main' # (main branch) Set branch of the GH repo to push      
