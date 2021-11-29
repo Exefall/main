@@ -4,13 +4,13 @@
     "name" : "test",
     "children" : [ {
       "name" : "should test",
-      "uid" : "48836137e9d19753",
+      "uid" : "bb6f0dee7da5b412",
       "parentUid" : "ff2b04dbb9c449a4d40723f51d841925",
       "status" : "passed",
       "time" : {
-        "start" : 1638175394755,
-        "stop" : 1638175397848,
-        "duration" : 3093
+        "start" : 1638175531129,
+        "stop" : 1638175532006,
+        "duration" : 877
       },
       "flaky" : false,
       "newFailed" : false,

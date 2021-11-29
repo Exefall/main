@@ -1,12 +1,12 @@
 {
-  "uid" : "48836137e9d19753",
+  "uid" : "bb6f0dee7da5b412",
   "name" : "should test",
   "fullName" : "test.should test",
   "historyId" : "79f2289865b824ddb6207eadb4cff23d",
   "time" : {
-    "start" : 1638175394755,
-    "stop" : 1638175397848,
-    "duration" : 3093
+    "start" : 1638175531129,
+    "stop" : 1638175532006,
+    "duration" : 877
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -50,7 +50,7 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "94328aa91827d75c",
+      "uid" : "a8d106ec3a8ce8b9",
       "status" : "passed",
       "time" : {
         "start" : 1638174199834,
@@ -80,6 +80,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "48836137e9d19753.json",
+  "source" : "bb6f0dee7da5b412.json",
   "parameterValues" : [ "chrome-96.0.4664.45" ]
 }

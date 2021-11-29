@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Nov 29 08:43:14 UTC 2021","Mon Nov 29 08:43:17 UTC 2021","3093","","test","","test","should test","should test",""
+"passed","Mon Nov 29 08:45:31 UTC 2021","Mon Nov 29 08:45:32 UTC 2021","877","","test","","test","should test","should test",""
