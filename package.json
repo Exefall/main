@@ -20,7 +20,7 @@
     },
     "scripts": {
         "test": "wdio run wdio.conf.js",
-        "test:headless": "npx wdop wdop.chrome.headless.conf.js",
+        "test:headless": "npx wdio wdio.chrome.headless.conf.js",
         "allure:serve": "npx allure serve allure-results",
         "allure:generate": "npx allure generate allure-results --clean",
         "cypress:open": "cypress open"
