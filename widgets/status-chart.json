@@ -1,1 +1,11 @@
-[ ]
+[ {
+  "uid" : "48836137e9d19753",
+  "name" : "should test",
+  "time" : {
+    "start" : 1638175394755,
+    "stop" : 1638175397848,
+    "duration" : 3093
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
